@@ -42,7 +42,7 @@ An online auction system built with:
 A C project implementing a compiler for assembly language, designed for optimal performance and accuracy.  
 
 ---
-
+ 
 ## 📈 GitHub Stats  
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UriGlan&show_icons=true&theme=radical) -->
