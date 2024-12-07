@@ -38,7 +38,7 @@ An online auction system built with:
 - **Backend:** Spring Boot, JWT authentication, MySQL  
 - **Features:** Real-time auction updates, user authentication, and category management  
 
-### [Assembly Compiler](https://github.com/UriGlan/Assembly)  
+### [Assembly Compiler](https://github.com/UriGlan/Assembler)  
 A C project implementing a compiler for assembly language, designed for optimal performance and accuracy.  
 
 ---
